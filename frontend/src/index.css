@@ -1,0 +1,19 @@
+html,
+body,
+#root {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Karantina', cursive;
+    letter-spacing: 1.5px;
+    text-align: center;
+    background-image: linear-gradient(to right bottom, #a12264, #945aae, #5e8be1, #00b5f3, #12d9eb);
+    overflow: auto;
+}
+
+button,
+input,
+select,
+textarea {
+    font-size: xx-large;
+}

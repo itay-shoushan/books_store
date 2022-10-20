@@ -1,0 +1,23 @@
+.Layout {
+    box-sizing: border-box;
+    position: relative;
+    min-height: 100vh;
+}
+
+.Layout header {
+    min-height: 55px;
+}
+
+.Layout main {
+    margin-top: 50px;
+    min-height: 700px;
+    width: 100%;
+    padding: 5px;
+    /* display: flex; */
+    overflow: hidden;
+    justify-content: center;
+}
+
+.Layout footer{
+    padding: top 10px;
+}
